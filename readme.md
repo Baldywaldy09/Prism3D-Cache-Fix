@@ -23,6 +23,9 @@ This plugin makes it so that the cache is ALWAYS cleared before you load your sa
 
 Bringing it back to how save editing and local modding use to be
 
+---
+The plugin will also fix problems with the `game` command not reloading scs script files
+
 # How to use
 1.) Open Steam<br>
 2.) Right click ETS2/ATS and go to `Manage > Browse Local Files`<br>
