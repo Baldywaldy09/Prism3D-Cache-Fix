@@ -2,6 +2,10 @@
 Prism3D Cache Fix - ETS2 / ATS - 1.53
 </h1>
 
+###### *Excludes External Sites*
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Baldywaldy09/Prism3D-Cache-Fix/total?style=flat-square&color=%2300CB9B)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Baldywaldy09/Prism3D-Cache-Fix/latest/total?style=flat-square&color=%2300CB9B)
+
 > [!IMPORTANT]
 > Every major ETS2 / ATS Update [1.??] this plugin COULD break / cause crashes<br>
 >  If it does the plugin will need to be updated!<br>
