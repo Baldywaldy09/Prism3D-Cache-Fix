@@ -23,7 +23,7 @@ This problem caused the game to only load cached versions of saves unless they w
 
 This meant that save editors and local modders had to find ways to fix this problem and ended up with needing to remake their save before loading it every time<br>
 
-This plugin makes it so that the cache is ALWAYS cleared before you load your save making sure your game read the file itself and not a cached version<br>
+This plugin makes it so that the cache is ALWAYS cleared before you load your save making sure your game reads the file itself and not a cached version<br>
 
 Bringing it back to how save editing and local modding use to be
 
